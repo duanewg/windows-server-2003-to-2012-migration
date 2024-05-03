@@ -3,18 +3,21 @@
 <!-- <img src="assets/logo.svg" alt="Logo Text There" /> -->
 </p>
 
-# Project Title
-"[Project Name]" involves [briefly describe the main objective or purpose of the project] utilizing [mention any specific tools, technologies, or platforms]. This project aims to [mention the primary goal or outcome] to [highlight the intended impact or benefit].
+# Windows Server 2003 to 2012 Domain Migration
+Transitioned an existing domain infrastructure from Windows Server 2003 to Windows Server 2012.
 
 ## Environments and Technologies Used
 
-- Item 1
-- Item 2
+- Microsoft Exchange Server 2010
+- Microsoft Exchange Server 2012
+- Microsoft Hyper-V Server 2012
 - Item 3
 
 ## Operating Systems Used
 
-- Operating System Name
+- Windows Server 2003
+- Windows Server 2010
+- Windows Server 2012
 
 ## High-Level Deployment and Configuration Steps
 
