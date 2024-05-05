@@ -1,6 +1,5 @@
 <p align="center">
-<img src="https://place-hold.it/600x200" alt="Place Holder Image"/>
-<!-- <img src="assets/logo.svg" alt="Logo Text There" /> -->
+<img src="assets/windows-server-2003-2012-logo.svg" alt="Windows Server 2003 to 2012 Migration" />
 </p>
 
 # Windows Server 2003 to 2012 Domain Migration
