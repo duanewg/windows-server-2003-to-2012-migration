@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/windows-server-2003-2012-logo.svg width"500" alt="Windows Server 2003 to 2012 Migration" />
+<img src="assets/windows-server-2003-2012-logo.svg" alt="Windows Server 2003 to 2012 Migration" />
 </p>
 
 # Windows Server 2003 to 2012 Domain Migration
